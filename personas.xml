@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<personas>
+	<persona>
+		<nombre>Nombre</nombre>
+		<apellidos>Apellidos</apellidos>
+		<dni>43172266r</dni>
+		<fecha_nac>20/10/1993</fecha_nac>
+		<telefono>987654321</telefono>
+	</persona>
+	<persona>
+		<nombre>Nombre</nombre>
+		<apellidos>Apellidos</apellidos>
+		<dni>43172266r</dni>
+		<fecha_nac>20/10/1993</fecha_nac>
+		<telefono>987654321</telefono>
+	</persona>
+	<persona>
+		<nombre>Nombre</nombre>
+		<apellidos>Apellidos</apellidos>
+		<dni>43172266r</dni>
+		<fecha_nac>20/10/1993</fecha_nac>
+		<telefono>987654321</telefono>
+	</persona>
+</personas>

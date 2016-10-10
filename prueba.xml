@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<personas>
+    <persona>
+        <nombre>"Miguel Angel"</nombre>
+        <apellidos>"Urbina"</apellidos>
+        <dni>"5555555z"</dni>
+        <fecha_nac>2000-11-23+01:00</fecha_nac>
+        <telefono>555555555</telefono>
+    </persona>
+    <persona>
+        <nombre>"Pepe"</nombre>
+        <apellidos>"Lotas"</apellidos>
+        <dni>"11111111z"</dni>
+        <fecha_nac>1993-10-20+01:00</fecha_nac>
+        <telefono>111111111</telefono>
+    </persona>
+    <persona>
+        <nombre>"Gervasio"</nombre>
+        <apellidos>"Urbina"</apellidos>
+        <dni>"22222222z"</dni>
+        <fecha_nac>1982-03-10+01:00</fecha_nac>
+        <telefono>222222222</telefono>
+    </persona>
+    <persona>
+        <nombre>"Manuela"</nombre>
+        <apellidos>"Dos"</apellidos>
+        <dni>"33333333z"</dni>
+        <fecha_nac>1999-11-23+01:00</fecha_nac>
+        <telefono>333333333</telefono>
+    </persona>
+</personas>
